@@ -3,6 +3,7 @@
 
 # imports
 import os
+import copy
 import bship_conf
 
 
